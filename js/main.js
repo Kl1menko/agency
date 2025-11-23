@@ -3,9 +3,11 @@ import { initLanguageDropdown } from "./modules/languageDropdown.js";
 import { initMaskField } from "./modules/maskField.js";
 import { initScrollLocks } from "./modules/scrollLocks.js";
 import { initTimeDisplay } from "./modules/timeDisplay.js";
+import { initTestimonialsReveal } from "./modules/testimonialsReveal.js";
 
 initScrollLocks();
 initTimeDisplay();
 initLenisScroll();
 initLanguageDropdown();
 initMaskField();
+initTestimonialsReveal();
